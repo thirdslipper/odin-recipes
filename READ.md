@@ -1,0 +1,1 @@
+in this project, I'll be following the odin foundational courses' first project of creating a basic recipe webpage with basic html and git for version control.
